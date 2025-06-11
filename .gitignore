@@ -41,4 +41,5 @@ yarn-error.log*
 next-env.d.ts
 
 # Cursor
-.cursor/
+# .cursor/ # Temporarily comment out to add the rule file
+.cursor/history.json # Example: ignore only history file
