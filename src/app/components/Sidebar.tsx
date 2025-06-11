@@ -3,7 +3,9 @@ import Image from "next/image";
 const Sidebar = () => {
   return (
     <aside className="w-1/3 p-8 bg-gray-100 h-screen sticky top-0 overflow-y-auto">
-      <h1 className="text-4xl font-bold text-blue-600 mb-8">CAREER</h1>
+      <h1 className="text-4xl font-bold text-blue-600 mb-8">
+        CAREER (CI/CD TEST)
+      </h1>
       <div className="flex flex-col items-center">
         <Image
           src="https://via.placeholder.com/150" // Placeholder for profile picture
